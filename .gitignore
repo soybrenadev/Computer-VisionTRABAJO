@@ -169,3 +169,6 @@ registros.csv
 
 #Fotos de personas pro privacidad
 personas/
+
+#mac
+.DS_Store
