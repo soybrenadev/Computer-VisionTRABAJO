@@ -1,3 +1,4 @@
 deepface
 opencv-python
 pandas
+tf-keras
